@@ -1,11 +1,3 @@
-INSTRUCTIONS:
-
-1) Ensure that node is installed by running "node --version" in terminal
-2) If not installed, install it at https://nodejs.org/en/download/ and run
-sudo "npm install -g create-react-app" in terminal
-3) Navigate into the my-app folder inside nnguye20_Development (cd ~/nnguye20_Development/my-app)
-4) Run "npm start" from within such folder
-5) In any browser, go to http://localhost:3000/ to see the app live!
 
 DESCRIPTION:
 
